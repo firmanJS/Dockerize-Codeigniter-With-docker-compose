@@ -1,4 +1,4 @@
-# Dockerize Codeigniter App With Nginx
+# Dockerize Codeigniter App With docker-compose
 
 ## Test Running Application
 
