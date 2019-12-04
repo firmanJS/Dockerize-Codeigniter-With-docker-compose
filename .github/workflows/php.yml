@@ -10,7 +10,7 @@ jobs:
     steps:
     - uses: actions/checkout@v1
 
-    - name: Validate composser.json
+    - name: Validate composer.json
       run: composer validate
 
     - name: Install dependencies
